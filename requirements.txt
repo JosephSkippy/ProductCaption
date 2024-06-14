@@ -1,4 +1,4 @@
 matplotlib
-tensorflow
+tensorflow==2.16.1
 tensorflow-hub
 tensorflow-io
